@@ -1,4 +1,6 @@
 ### Hi there 👋
+I teach web-development at Roskilde Technical College.
+
 
 <!--
 **clurts/clurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
