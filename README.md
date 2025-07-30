@@ -1,5 +1,5 @@
-### Hi there 👋
-I teach web-development at Roskilde Technical College.
+### Who am I ???
+I am a teacher and web developer from Copenhagen, Denmark.
 
 
 <!--
@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+- 🌱 I’m currently learning MCP
+
+## I know stuff about
+
+HTML · CSS · JavaScript · TypeScript · React.js · Next.js · schema validation · SASS · Tailwind · CMS · Node.js · api · Git · GitHub · Agile development · Programming
