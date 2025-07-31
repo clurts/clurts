@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 
 ## I know stuff about
 
-HTML · CSS · JavaScript · TypeScript · React.js · Next.js · schema validation · SASS · Tailwind · CMS · Node.js · api · Git · GitHub · Agile development · Programming
+**Languages:** HTML · CSS · JavaScript · TypeScript 
+**Libraries/frameworks:** React.js · Next.js · SASS · Tailwind · Zod
+**Backend:** Node.js · Express · Hono 
+**Tooling:**  Agile (SCRUM / kanban ) · Git · GitHub · CMS
