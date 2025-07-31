@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ## I know stuff about
 
-**Languages:** HTML · CSS · JavaScript · TypeScript <br>
-**Libraries/frameworks:** React.js · Next.js · SASS · Tailwind · Zod<br>
-**Backend:** Node.js · Express · Hono <br>
-**Tooling:**  Agile (SCRUM / kanban ) · Git · GitHub · CMS
+**Frontend | ** HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind <br>
+**Backend | ** Node.js · Express · Hono <br>
+**Tools | **  Agile (SCRUM / kanban ) · Git · GitHub · CMS · Zod
