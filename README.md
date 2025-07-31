@@ -1,5 +1,5 @@
 ### Who am I ???
-I am a teacher and web developer from Copenhagen, Denmark.
+I am a web developer and teacher from Copenhagen, Denmark.
 
 
 <!--
