@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## I know stuff about
 
 |              | Teknologier |
-|--------------|-------------|
+|--------------|:------------|
 | **Frontend** | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind |
 | **Backend** | Node.js · Express · Hono |
 | **Tools** |  Agile (SCRUM / kanban ) · Git · GitHub · CMS · Zod |
