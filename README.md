@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 | *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod                        |
 | *Testing*         | Jest · Testing Library · Vitest                                      |
 | *Databases*       | mySQL · SQLite · MongoDB                                             |
-
 | *Project Mgmt*    | Agile (SCRUM / Kanban) · Trello · Notion                             |
 | *Other*           | AI · MCP    
