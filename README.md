@@ -26,8 +26,13 @@ Here are some ideas to get you started:
 
 ## I know stuff about
 
-| Category     | Tech  |
-|:-------------|:------|
-| *Frontend* | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind |
-| *Backend*  | Node.js · Express · Hono · jwt |
-| *Tooling*  |  AI · MCP · Agile (SCRUM / kanban ) · Git · GitHub · CMS · Zod |
+| Category         | Tech                                                                 |
+|------------------|----------------------------------------------------------------------|
+| *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind |
+| *Backend*         | Node.js · Express · Hono · REST APIs                                 |
+| *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod                        |
+| *Testing*         | Jest · Testing Library · Vitest                                      |
+| *Databases*       | mySQL · SQLite · MongoDB                                             |
+
+| *Project Mgmt*    | Agile (SCRUM / Kanban) · Trello · Notion                             |
+| *Other*           | AI · MCP    
