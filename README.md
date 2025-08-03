@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 |:-------------|:------|
 | *Frontend* | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind |
 | *Backend*  | Node.js · Express · Hono · jwt |
-| *Tooling*  |  AI · Agile (SCRUM / kanban ) · Git · GitHub · CMS · Zod |
+| *Tooling*  |  AI · MCP · Agile (SCRUM / kanban ) · Git · GitHub · CMS · Zod |
