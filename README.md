@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## I know stuff about
 
-| Category         | Tech                                                                 |
-|------------------|----------------------------------------------------------------------|
+| Category         | Tech                                                                  |
+|------------------|:----------------------------------------------------------------------|
 | *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind |
 | *Backend*         | Node.js · Express · Hono · REST APIs                                 |
 | *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod                        |
