@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | Category          | Tech                                                                        |
 |:------------------|:----------------------------------------------------------------------------|
 | *Frontend*        | HTML · CSS · JavaScript · TypeScript · React.js · Next.js · SASS · Tailwind |
-| *Backend*         | Node.js · Express · Hono · Prisma ORM · Drizzle ORM · REST APIs             |
+| *Backend*         | Node.js · Express · Hono · Prisma ORM · Drizzle ORM · Mongoose · REST APIs  |
 | *Tooling*         | Git · GitHub · Vite · ESLint · Prettier · Zod                               |
 | *Testing*         | Jest · Testing Library · Vitest                                             |
 | *Databases*       | mySQL · PostgreSQL · SQLite · MongoDB · SupaBase                            |
