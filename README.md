@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 
-
-- 🌱 I’m currently learning MCP
+- 🔭 I’m currently working on a time registration software project
+- 🌱 I’m currently learning Model Context Protocol
 
 ## I know stuff about
 
